@@ -56,7 +56,7 @@
 
     ![20200817191741](https://i.loli.net/2020/12/06/DHy13dsNSxrchVz.png)
 
-    在readme文件中随意修改任意字符（比如加个空格），然后点击下方的Commit Changes即可激活每日定时打卡脚本
+    在readme文件中随意修改任意字符（比如加个空格），然后点击下方的Commit Changes即 可激活每日定时打卡脚本
 
     ![20200817192122](https://i.loli.net/2020/12/06/1W6x2wIBOTCVl7K.png)
 
